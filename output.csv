@@ -1,0 +1,369 @@
+Question,Ans1,Ans2,Ans3,Ans4,Correct ans,Check/Radio
+What is the primary benefit of cloud computing?,Increased capital expenses,Scalability,Limited access,None of the above,Scalability,Radio
+Which AWS service is primarily used for object storage?,Amazon EC2,Amazon S3,Amazon RDS,AWS Lambda,Amazon S3,Radio
+What does AWS stand for?,,,,,,Radio
+True or False: AWS provides a free tier for new users.,,,,,,Radio
+Which of the following is a benefit of using cloud services?,Increased latency,Global reach,Limited scalability,Higher costs,Global reach,Radio
+What is the purpose of AWS Identity and Access Management (IAM)?,,,,,,Radio
+"Fill in the blank: The three main service models of cloud computing are IaaS, PaaS, and",,,,,,Radio
+Which AWS service is used for monitoring and logging?,Amazon CloudWatch,Amazon S3,AWS CloudTrail,AWS Config,Amazon CloudWatch,Radio
+What is the AWS pricing model that allows you to pay only for what you use?,,,,,,Radio
+Which AWS service is used for content delivery?,Amazon CloudFront,Amazon S3,Amazon EC2,AWS Lambda,Amazon CloudFront,Radio
+True or False: AWS allows you to deploy applications in multiple regions.,,,,,,Radio
+What is the primary purpose of AWS CloudTrail?,,,,,,Radio
+Which AWS service is used for serverless computing?,Amazon EC2,AWS Lambda,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the function of Amazon Route 53?,,,,,,Radio
+Which AWS service is used for data archiving?,Amazon S3 Glacier,Amazon RDS,Amazon EC2,AWS Lambda,Amazon S3 Glacier,Radio
+True or False: AWS supports hybrid cloud architectures.,,,,,,Radio
+What is the function of AWS Auto Scaling?,,,,,,Radio
+Fill in the blank: The AWS service that provides a managed NoSQL database is called,,,,,,Radio
+Which AWS service is used for data backup and recovery?,Amazon S3,AWS Backup,Amazon Glacier,Amazon RDS,AWS Backup,Radio
+What is the purpose of AWS Trusted Advisor?,,,,,,Radio
+Which AWS service is best suited for deploying a web application?,Amazon EC2,Amazon S3,AWS Lambda,Amazon RDS,Amazon EC2,Radio
+True or False: Amazon RDS supports multiple database engines.,,,,,,Radio
+"Fill in the blank: To ensure high availability, you should deploy your application across",,,,,,Radio
+What is the main purpose of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for application load balancing?,Amazon Route 53,AWS Elastic Load Balancing,Amazon CloudFront,Amazon EC2,AWS Elastic Load Balancing,Radio
+What is the primary benefit of using Amazon S3?,,,,,,Radio
+Which AWS service is used for real-time data streaming?,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,Amazon Kinesis,Radio
+True or False: AWS Lambda can only run code written in Python.,,,,,,Radio
+What is the purpose of Amazon Elastic Block Store (EBS)?,,,,,,Radio
+Which AWS service is used for serverless data processing?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the function of AWS Config?,,,,,,Radio
+Which AWS service is best for creating a virtual private cloud?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS Direct Connect allows you to establish a dedicated network,,,,,,Radio
+What is the main benefit of using Amazon CloudFront?,,,,,,Radio
+Which AWS service is used for managing and deploying Docker containers?,Amazon ECS,Amazon EC2,AWS Lambda,Amazon S3,Amazon ECS,Radio
+What is the purpose of AWS Well-Architected Tool?,,,,,,Radio
+Which AWS service is used for data warehousing?,Amazon RDS,Amazon Redshift,Amazon DynamoDB,Amazon S3,Amazon Redshift,Radio
+Fill in the blank: The AWS service that allows you to run containerized applications is,,,,,,Radio
+What is the primary function of AWS Organizations?,,,,,,Radio
+Which AWS service is used for machine learning?,Amazon SageMaker,Amazon EC2,Amazon RDS,Amazon S3,Amazon SageMaker,Radio
+True or False: AWS provides a service for monitoring application performance called,,,,,,Radio
+What is the purpose of AWS Secrets Manager?,,,,,,Radio
+Which AWS service is used for creating and managing APIs?,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon API Gateway,Radio
+Fill in the blank: The AWS service that provides a fully managed message queuing,,,,,,Radio
+What is the primary benefit of using AWS Elastic Beanstalk?,,,,,,Radio
+Which AWS service is used for network security?,AWS WAF,Amazon S3,Amazon EC2,AWS Lambda,AWS WAF,Radio
+True or False: AWS provides a service for data migration called AWS Database,,,,,,Radio
+What is the function of Amazon Inspector?,,,,,,Radio
+Which AWS service is used for creating and managing virtual servers?,Amazon EC2,Amazon S3,AWS Lambda,Amazon RDS,Amazon EC2,Radio
+What is the purpose of AWS Snowball?,,,,,,Radio
+Which AWS service is used for content management?,Amazon S3,Amazon EC2,AWS Lambda,Amazon RDS,Amazon S3,Radio
+True or False: AWS provides a service for creating virtual private networks called AWS,,,,,,Radio
+What is the primary function of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for managing user identities?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed relational database is,,,,,,Radio
+What is the purpose of AWS CodePipeline?,,,,,,Radio
+Which AWS service is used for monitoring API usage?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application dependencies called,,,,,,Radio
+What is the primary benefit of using Amazon RDS?,,,,,,Radio
+Which AWS service is used for creating and managing virtual networks?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+What is the function of AWS CloudTrail?,,,,,,Radio
+Which AWS service is used for data analytics?,Amazon Athena,Amazon S3,Amazon RDS,AWS Lambda,Amazon Athena,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Secrets Manager,Radio
+Fill in the blank: The AWS service that provides a fully managed search service is called,,,,,,Radio
+What is the function of AWS Data Pipeline?,,,,,,Radio
+Which AWS service is used for managing application deployments?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application dependencies called,,,,,,Radio
+What is the primary benefit of using Amazon Aurora?,,,,,,Radio
+Which AWS service is used for managing application configurations?,AWS Systems Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Systems Manager,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Batch?,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Secrets Manager,Radio
+Fill in the blank: The AWS service that provides a fully managed search service is called,,,,,,Radio
+What is the function of AWS Data Pipeline?,,,,,,Radio
+Which AWS service is used for managing application deployments?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application dependencies called,,,,,,Radio
+What is the primary benefit of using Amazon Aurora?,,,,,,Radio
+Which AWS service is used for managing application configurations?,AWS Systems Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Systems Manager,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Batch?,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary purpose of AWS Organizations?,,,,,,Radio
+Which AWS service is used for creating and managing virtual private clouds?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application secrets called AWS,,,,,,Radio
+What is the purpose of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for real-time data processing?,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,Amazon Kinesis,Radio
+What is the primary function of AWS CloudTrail?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed search service is,,,,,,Radio
+Which AWS service is used for managing application dependencies?,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeArtifact,Radio
+True or False: AWS provides a service for data migration called AWS Database,,,,,,Radio
+What is the primary benefit of using Amazon RDS?,,,,,,Radio
+Which AWS service is used for creating and managing APIs?,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon API Gateway,Radio
+What is the function of AWS Systems Manager?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed message queuing,,,,,,Radio
+What is the purpose of AWS CodePipeline?,,,,,,Radio
+Which AWS service is used for monitoring application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application configurations called,,,,,,Radio
+What is the primary function of AWS Batch?,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,Amazon Kinesis,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary purpose of AWS Organizations?,,,,,,Radio
+Which AWS service is used for creating and managing virtual private clouds?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application secrets called AWS,,,,,,Radio
+What is the purpose of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for real-time data processing?,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,Amazon Kinesis,Radio
+What is the primary function of AWS CloudTrail?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed search service is,,,,,,Radio
+Which AWS service is used for managing application dependencies?,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeArtifact,Radio
+True or False: AWS provides a service for data migration called AWS Database,,,,,,Radio
+What is the primary benefit of using Amazon RDS?,,,,,,Radio
+Which AWS service is used for creating and managing APIs?,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon API Gateway,Radio
+What is the function of AWS Systems Manager?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed message queuing,,,,,,Radio
+What is the purpose of AWS CodePipeline?,,,,,,Radio
+Which AWS service is used for monitoring application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application configurations called,,,,,,Radio
+What is the primary function of AWS Batch?,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Secrets Manager,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary purpose of AWS Organizations?,,,,,,Radio
+Which AWS service is used for creating and managing virtual private clouds?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application secrets called AWS,,,,,,Radio
+What is the purpose of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for real-time data processing?,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeArtifact,Radio
+True or False: AWS provides a service for data migration called AWS Database,,,,,,Radio
+What is the primary benefit of using Amazon RDS?,,,,,,Radio
+Which AWS service is used for creating and managing APIs?,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon API Gateway,Radio
+What is the function of AWS Systems Manager?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed message queuing,,,,,,Radio
+What is the purpose of AWS CodePipeline?,,,,,,Radio
+Which AWS service is used for monitoring application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application configurations called,,,,,,Radio
+What is the primary function of AWS Batch?,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Secrets Manager,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary purpose of AWS Organizations?,,,,,,Radio
+Which AWS service is used for creating and managing virtual private clouds?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application secrets called AWS,,,,,,Radio
+What is the purpose of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for real-time data processing?,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,Amazon Kinesis,Radio
+What is the primary function of AWS CloudTrail?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed search service is,,,,,,Radio
+Which AWS service is used for managing application dependencies?,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeArtifact,Radio
+True or False: AWS provides a service for data migration called AWS Database,,,,,,Radio
+Which AWS service is used for creating and managing APIs?,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon API Gateway,Radio
+What is the function of AWS Systems Manager?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed message queuing,,,,,,Radio
+What is the purpose of AWS CodePipeline?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Secrets Manager,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary purpose of AWS Organizations?,,,,,,Radio
+Which AWS service is used for creating and managing virtual private clouds?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application secrets called AWS,,,,,,Radio
+What is the purpose of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for real-time data processing?,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,Amazon Kinesis,Radio
+What is the primary function of AWS CloudTrail?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed search service is,,,,,,Radio
+Which AWS service is used for managing application dependencies?,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeArtifact,Radio
+True or False: AWS provides a service for data migration called AWS Database,,,,,,Radio
+What is the primary benefit of using Amazon RDS?,,,,,,Radio
+Which AWS service is used for creating and managing APIs?,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon API Gateway,Radio
+What is the function of AWS Systems Manager?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed message queuing,,,,,,Radio
+What is the purpose of AWS CodePipeline?,,,,,,Radio
+Which AWS service is used for monitoring application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application configurations called,,,,,,Radio
+What is the primary function of AWS Batch?,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Secrets Manager,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary purpose of AWS Organizations?,,,,,,Radio
+Which AWS service is used for creating and managing virtual private clouds?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+What is the primary function of AWS Batch?,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Secrets Manager,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary purpose of AWS Organizations?,,,,,,Radio
+Which AWS service is used for creating and managing virtual private clouds?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application secrets called AWS,,,,,,Radio
+What is the purpose of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for real-time data processing?,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,Amazon Kinesis,Radio
+What is the primary function of AWS CloudTrail?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed search service is,,,,,,Radio
+Which AWS service is used for managing application dependencies?,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeArtifact,Radio
+True or False: AWS provides a service for data migration called AWS Database,,,,,,Radio
+What is the primary benefit of using Amazon RDS?,,,,,,Radio
+Which AWS service is used for creating and managing APIs?,Amazon API Gateway,Amazon EC2,AWS Lambda,Amazon S3,Amazon API Gateway,Radio
+What is the function of AWS Systems Manager?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed message queuing,,,,,,Radio
+What is the purpose of AWS CodePipeline?,,,,,,Radio
+Which AWS service is used for monitoring application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application configurations called,,,,,,Radio
+What is the primary function of AWS Batch?,,,,,,Radio
+Correct Answer: To run batch computing workloads on AWS.,,,,,,Radio
+Which AWS service is used for managing application logs?,Amazon CloudWatch Logs,Amazon S3,AWS Lambda,Amazon RDS,Amazon CloudWatch Logs,Radio
+What is the purpose of AWS AppSync?,,,,,,Radio
+Correct Answer: To build data-driven applications with real-time updates.,,,,,,Radio
+Which AWS service is used for managing and deploying serverless applications?,AWS Lambda,Amazon EC2,Amazon RDS,Amazon S3,AWS Lambda,Radio
+What is the primary benefit of using Amazon EFS?,,,,,,Radio
+Which AWS service is used for managing application secrets?,AWS Secrets Manager,Amazon S3,Amazon EC2,AWS Lambda,AWS Secrets Manager,Radio
+Fill in the blank: The AWS service that provides a fully managed data warehouse is,,,,,,Radio
+What is the primary function of AWS Glue?,,,,,,Radio
+Which AWS service is used for managing application performance?,Amazon CloudWatch,AWS CloudTrail,Amazon S3,AWS Config,Amazon CloudWatch,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the purpose of AWS Service Catalog?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary purpose of AWS Organizations?,,,,,,Radio
+Which AWS service is used for creating and managing virtual private clouds?,Amazon VPC,Amazon EC2,Amazon S3,AWS Lambda,Amazon VPC,Radio
+True or False: AWS provides a service for managing application performance called,,,,,,Radio
+What is the function of AWS Elastic Load Balancing?,,,,,,Radio
+Which AWS service is used for managing user identities and permissions?,AWS IAM,Amazon S3,Amazon EC2,AWS Lambda,AWS IAM,Radio
+Fill in the blank: The AWS service that provides a fully managed data lake is called,,,,,,Radio
+What is the primary benefit of using Amazon S3 for storage?,,,,,,Radio
+Which AWS service is used for automating the deployment of applications?,AWS CodeDeploy,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeDeploy,Radio
+True or False: AWS provides a service for managing application secrets called AWS,,,,,,Radio
+What is the purpose of AWS CloudFormation?,,,,,,Radio
+Which AWS service is used for real-time data processing?,Amazon Kinesis,Amazon S3,Amazon RDS,AWS Lambda,Amazon Kinesis,Radio
+What is the primary function of AWS CloudTrail?,,,,,,Radio
+Fill in the blank: The AWS service that provides a fully managed search service is,,,,,,Radio
+Which AWS service is used for managing application dependencies?,AWS CodeArtifact,Amazon S3,Amazon EC2,AWS Lambda,AWS CodeArtifact,Radio
+True or False: AWS provides a service for data migration called AWS Database,,,,,,Radio
+What is the primary benefit of using Amazon RDS?,,,,,,Radio
